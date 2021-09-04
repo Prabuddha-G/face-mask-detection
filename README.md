@@ -11,7 +11,7 @@
 
 
 
-For traininf purpose both face with mask and without mask  samples are used .
+For training purpose both face with mask and without mask  samples are used .
 Here are some of them:
 
 
