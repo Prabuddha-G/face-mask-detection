@@ -13,6 +13,8 @@ Result:
 
 
 
-![00](https://user-images.githubusercontent.com/90050256/132082911-556464c0-7491-4818-837b-4448fda873e6.PNG)
-![11](https://user-images.githubusercontent.com/90050256/132082914-a817cf05-bc55-42d2-aad0-a13fb048308b.PNG)
+![22](https://user-images.githubusercontent.com/90050256/132082974-aaca1a64-e5fa-41f8-8e1c-d7f491613ce5.PNG)
+![33](https://user-images.githubusercontent.com/90050256/132082976-f1d7528f-5341-4b2c-8c0f-0a81e6a142fd.PNG)
+
+
 
